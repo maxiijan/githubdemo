@@ -1,2 +1,6 @@
 erstes Repo
+<<<<<<< HEAD
 Änderung2
+=======
+Änderung1
+>>>>>>> 9c338b56b2ec8da5fe00513f1cab413b01cffae5
